@@ -1,0 +1,10 @@
+# Site settings
+title: Subhav Ramachandran
+email: subhav@raggedy.org
+description: >-
+  Subhav Ramachandran's personal website.
+url: "http://subhav.raggedy.org"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
